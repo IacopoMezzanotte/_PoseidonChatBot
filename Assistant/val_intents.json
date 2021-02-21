@@ -1,0 +1,71 @@
+{"val_intents":[
+  {"tag": "start",
+	 "patterns": [ "oh, morning", "hello my first acquascape assistant", "switch on assistant"]
+	},
+
+  {"tag": "end",
+     "patterns": [ "see ypu next time", "until netx time", "that's all"]
+    },
+
+  {"tag": "thanksgiving",
+	 "patterns": [ "many thanks", "you are the best", "you did very well"]
+	},
+
+  {"tag": "needs",
+	 "patterns": [ "need your advice", "I need you urgently"]
+	},
+
+  {"tag": "new_acquascape",
+	 "patterns": [ "give me some advices in building acquascapes", "i would like to project a new acquaria", "tell me some ways to set up an acquarium"]
+	},
+
+  {"tag": "hardscape",
+	 "patterns": [ "i would have some tips for a weel made hardscape", "guide me in making an hardscape", "any suggestions in hardscaping"]
+	},
+
+  {"tag": "water",
+	 "patterns": [ "it is OK to use tap water in the aquarium", "is there a perfect type of water to use", "do you have any advise in which water should i use"]
+	},
+
+  {"tag": "water_change",
+	 "patterns": [ "How often should I change the water in my aquarium", "could you tell me some advises in changing the water", "which is the best practise when i change the water"]
+	},
+
+  {"tag": "rocks",
+	 "patterns": [ "do you now any types ok acquarium's rocks", "say some names of rocks please", "say me a common rock in acquariology"]
+	},
+
+  {"tag": "woods",
+	 "patterns": [ "could you tell me any beautifull woods to add", "do you have any idas about woods", "do you know any kind ok woods"]
+	},
+
+  {"tag": "plants",
+	 "patterns": [ "any ideas for new plants", "are there some plants", "i would like to know some suitable plants for me "]
+	},
+
+  {"tag": "tank_types",
+	 "patterns": [ "which are the most common tank's type", "do you know what kind of acquarium should i opt for"]
+	},
+
+  {"tag": "fish_food",
+	 "patterns": [ "should i leave to eat mosquito larvae to salmons", "i want to give meat to my sword fish, can i ", "can i land algae to piranhas"]
+	},
+
+  {"tag": "add_to_list",
+	 "patterns": [ "insert into the list some tabs", "write on the shop list some perlon ", "add on to my shopping list some tubes"]
+	},
+
+  {"tag": "tell_the_list",
+	 "patterns": [ "explain me the shop list", "display my shopping list", "list me my list please"]
+	},
+
+  {"tag": "fertilize",
+	 "patterns": [ "remind me to fertilize in 12 days", "add to memos that i want to fertilise in 11 days", "please isert in the memo that i would like to fertilize in 10 days"]
+	},
+
+  {"tag": "memo_fertilize",
+	 "patterns": [ "pull out the memos please", "tell me about my memos", "my memos list please"]
+	}
+
+]
+}

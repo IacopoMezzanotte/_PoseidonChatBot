@@ -1,0 +1,74 @@
+{"intents":[
+	{"tag": "start",
+	 "patterns": [ "hi", "hello", "are you there?", "good morning", "good evening", "good night", "nice to meet you", "hey my first acquascape", "are you on?", "is anyone there?", "hey you!", "assistant", "light on assistant"]
+	},
+
+	{"tag": "end",
+	 "patterns": [ "bye", "good bye", "it was a plasure", "It was a pleasure to deal with you", "see you soon", "see you later", "see you", "bye bye", "ok bye", "enough", "stop", "intterrupt", "it's all for now"]
+	},
+
+	{"tag": "thanksgiving",
+	 "patterns": [ "thanks", "thank you", "oh nice", "wonderfull", "lovely", "you were splendid", "thanks for the advice", "thank you a lot", "thanks for the helps", "really usefull", "that's great", "you are amazing"]
+	},
+
+	{"tag": "needs",
+	 "patterns": [ "I need you", "please help me", "help", "can you give me a hand", "i have a problem", "i want your services", "can you do something for me", "do you have time for me", "it's an emergency", "can you help me please", "save me", "i want you help", "help", "need you"]
+	},
+
+	{"tag": "new_acquascape",
+	 "patterns": [ "i want do a new tank", "i would like to do a new acquascape", "i bought a new acquarium", "i wanna build an aquaria ", "i have a new tank tu fill", "new tank", "i have to start my aquarium", "new acquascape", "my parents gave me an aquaria", "i made a new tank", "i would to start my acquascape", "what type of acquascape can i make", "new acquaria", "new"]
+	},
+
+	{"tag": "hardscape",
+	 "patterns": [ "how to make a good hardscape", "what is a good hardscape", "give me a suggestion for a good hardscape", "which type of sand i have to use for a stunning hardscape", "what kind of fertile ground for a wonderfull hardscape", "how can i put the rocks ", "how can i pour sand to a good hardsacpe's result", "which are the practices for achieve a good hardscape", "can i use glue to build my hardscape ", "can i use pieces of wood to enlarge my hardscape", "what type of stuff i can use to create an hardscape", " i have to prewash my hardscape's objects", "hardscape"]
+	},
+
+	{"tag": "water",
+	 "patterns": [ "which water i have to use", "can i use all tap water", "can i use osmotic water", "can i use salt water for my acquascape", "can i put tap water in may acquarium", "can i top up with natural bottled water", "should i use demineralised water", "are the water quality very important", "rome's tap water are good for my tank", "are the osmotic water the best water", "are ligth bottle water good enough for my acquascape", "can i mix tap water with osmotic water", "water", "water types", "osmotic water", "tap water", "bottled water"]
+	},
+
+	{"tag": "water_change",
+	 "patterns": [ "have i to change some water every month", "how many water i have to change", "can i use only osmotic water during the change", "which type of water should i use during the change", "should i do the change quickly", "the new water should be at the same temperature of the tank's water", "have i to change some water", "how can i change water", "tell me how many water have i to change", "should i put directly the water inside the acquarium", "can i don't change water", "is change water reguraly a good idea", "change", "water change"]
+	},
+
+	{"tag": "rocks",
+	 "patterns": [ "which types of rock can i put", "could you tell me any type of rocks", "which are wonderfull rocks", "could you tell me allowed rocks for acquarium", "i wuold like to know some rock's types for my acquarium", "can i put rocks inside my tank", "i want know some name of rocks for my aquaria", "could you suggest me any rocks", "assistant tell me some rocks that i can use for my acquarium", "suggest me what kind of rocks can i use", "do you have any suggestion for what kind of rocks should i use", "i want try  new rocks", "rocks", "rock"]
+	},
+
+	{"tag": "woods",
+	 "patterns": [ "are there beautifull wood to use", "can i put some woods into the water", "can i use any woods or roots in my tank", "assistant could yo tell me some names of woods  ", "could you suggest me any types of roots", "i want put new root in my acquarium", "which types of woods or roots should i use", "tell me some root'names", "would you like to tell me some beautifull woods to put in my aquaria", " can i ask you some root's name", "i would like to buy new woods", "i want to put woods inside my tank any suggestions", "give me some examples of good woods for my acquascape", "woods", "wood"]
+	},
+
+	{"tag": "plants",
+	 "patterns": [ " i would like to plant new plants ", "which type of plant can i buy", "have i to buy plants", "can you suggest me easy plant", "which type of plants do you prefer", "do you know any plants for my acquascape", "can you tell me some names of plants for non beginners", "do an acquascape need plants", "tell me about plants which i can buy", "what are good plant to choose", "could you tell me about plants", "which acquatic plants are beautifull", "plant", "plants"]
+	},
+
+	{"tag": "tank_types",
+	 "patterns": [ "which types of acquarium can i make", "could you suggest me any types of acquarium", "what are beautiful kind of aquaria", "could you tell me any kind of acquascapes", "which are the most famous acquascape's type", "do you know any kinds of acquascape", "could you tell my which types of acquarium can i make", "do you know any acquarium types", "tell me which acquarium should i make", "do you have any suggestions for acquarium's types", "what kind of acquarium should i make", "could you tell me any acquarium types", "tell me about tanks", "tank's type", "acquarium types", "acquaria kind"]
+	},
+
+	{"tag": "fish_food",
+	 "patterns": [ "should i give flake feed to red fishes", "can i give food in tablet to sword fishes", "should i give mosquito larvae to salmons", "could i give vegetarian food to brasses", " would i give to feed omnivore tabs to catfishes", "should i give ones per day spirulina's food to carps", "can i land algaes to eat to eels", "could i leave vegetables toplaices", "i would to land some meat to my piranhas ", "should i give veggie food to herrings", "can i leave every kind of food tunas to eat", " should i leave natural food to eat to my trouts"]
+	},
+
+	{"tag": "add_to_list",
+	 "patterns": [ "add to the list some sand", "could you add to the shop list fhishes", "write on the list ph tests", "put on the shop list the filter", "add to my shop list co2", "write on the list for the shopping some fertilizers", "put on the list sponge", "add on the list cleaner product", "write on the shopping list osmotic water", "add on the list fishes", "put on the list", "write on the list", "add on the list"]
+	},
+
+	{"tag": "tell_the_list",
+	 "patterns": [ "show me the shopping list", "tell me the shopping list", "show the shop list", "tell the shoppin list", "shopping list please", "indicate the shopping list", "point out the list", "flag up the shop list", "manifest the list please", "reveal my shopping list", "display my list", "demonstrate y shopping list", "my list please"]
+	},
+
+	{"tag": "fertilize",
+	 "patterns": [ "remember me to fertilize in 10 days", "add on the memo that i want to fertilize in 9 days", "i want fertilize in 8 days", "write on the memo that i would to fertilize in 7 days ", "insert in the memos that i have to fertilize in 7 days", "attach at the memos to fertilize in 6 days", "annex that i have to fertilize in 5 days", "fertilize in 5 days", "tag that i want to fertilize in 4 days", "i would to fertilize in 3 days", "fertilize in 2 days", " from 2 days of now i want to fertilize", "keep in mind that i want to fertilize in 1 days"]
+	},
+
+	{"tag": "memo_fertilize",
+	 "patterns": [ "when have i to fertilize", " tell me when i have to fertilize", "say the days in which i have to fertilize", "in how many days must i fertilize", "when fertilizing", "how soon should I fertilise", "remind me when to fertilise", "tell me the days on which I should fertilise", "say when i have to fertilize", "tell me the  fertilizing memos please", "fertilizing memos please", "fertilizing", "which days should I fertilise"]
+	},
+
+	{"tag": "ph_fish",
+	 "patterns": [ "what is the right ph for salmon", "could you tell me the right ph for", "say the days in which i have to fertilize", "in how many days must i fertilize", "when fertilizing", "how soon should I fertilise", "remind me when to fertilise", "tell me the days on which I should fertilise", "say when i have to fertilize", "tell me the  fertilizing memos please", "fertilizing memos please", "fertilizing", "which days should I fertilise"]
+	}
+]
+}
